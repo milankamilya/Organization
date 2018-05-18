@@ -106,7 +106,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       count = try managedContext.count(for: fetchRequest);
     } catch { print("No data present.") }
     
-    // Comment following for check futureproof
+    // Commentted following for check futureproof
     // if count > 0 { return }
     
     /****** Access JSON file and parse it ******/
