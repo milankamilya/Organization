@@ -1,0 +1,54 @@
+[
+ {
+ "empID": "emp1",
+ "name": "John",
+ "salary": 34000,
+ "type": "TechSupport",
+ "isVoice": true,
+ "isPermanent": true
+ },
+ {
+ "empID": "emp2",
+ "name": "Jerry",
+ "salary": 39000,
+ "type": "TechSupport",
+ "isVoice": false,
+ "isPermanent": true
+ },
+ {
+ "empID": "emp3",
+ "name": "Harry",
+ "salary": 29000,
+ "type": "TechSupport",
+ "isVoice": true,
+ "isPermanent": false
+ },
+ {
+ "empID": "emp4",
+ "name": "Henry",
+ "salary": 60000,
+ "type": "Manager",
+ "department": "Software Development"
+ },
+ {
+ "empID": "emp5",
+ "name": "Methews",
+ "salary": 55000,
+ "type": "Manager",
+ "department": "Software Testing"
+ },
+ {
+ "empID": "emp6",
+ "name": "Joshep",
+ "salary": 45000,
+ "type": "Engineer",
+ "skill": "Software"
+ },
+{
+ "empID": "emp7",
+ "name": "Kim",
+ "salary": 50000,
+ "type": "Engineer",
+ "skill": "Hardware"
+ }
+ ]
